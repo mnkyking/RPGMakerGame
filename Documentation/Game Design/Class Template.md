@@ -16,13 +16,7 @@ Each level player gains points to give assig in skill tree to unlock and upgrade
 Multiclassing available
 Each class only gets 3 skills for now
 
-Skill 1
-  - description
-  - flavor text
-  - stats adjustment
-  - cooldown duration - # of turns
-
-Skill ...n
+Skill 1...n
   - description
   - flavor text
   - stats adjustment
