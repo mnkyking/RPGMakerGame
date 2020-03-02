@@ -1,19 +1,29 @@
 # Class Template
 
 ## Class Name
-### Attributes/Race
+### Attributes/Race - may not include races in this game
 
-Stats
-Health - 50 health points
-Magic Power - 50 magic points
+Base Stats for all game characters (classes will affect these base values)
+Health - 50
+Magic Power - 50
 Speed - 10
 Attack - 10
 Defense - 10
 
 
 Levels 1 - 20
-Each level player gains points to give to skills in skill tree to unlock and upgrade
-Each class 3 skills 
+Each level player gains points to give assig in skill tree to unlock and upgrade available skills
+Multiclassing available
+Each class only gets 3 skills for now
 
-Do skills have a cooldown?
-or x amount uses per day or per battle?
+Skill 1
+  - description
+  - flavor text
+  - stats adjustment
+  - cooldown duration - # of turns
+
+Skill ...n
+  - description
+  - flavor text
+  - stats adjustment
+  - cooldown duration - # of turns
