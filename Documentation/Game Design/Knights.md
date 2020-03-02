@@ -1,39 +1,40 @@
-##Class Template
+# Class Template
 
-Class Name: Knight
-Attributes/Race - N/A
+## Class Name: Knight
+### Attributes/Race - may not include races in this game
 
-Stats - stats are generated based class but a small formula as well
-
-Health - 50hp
-Magic Power - 50 mp
+### Stats
+Health - 50
+Magic Power - 30
 Speed - 10
 Attack - 10
 Defense - 10
+Magic Attack - 5
+Magic Defense - 5
 
-Health - 70hp
-	- generally has more health than classes, 
-Magic Power - 30 mp
-	- small magic power to do simple spells
-Speed - 5
-	- if real time battles, determines turn order - low to mid range
-Attack 15
-	- mid -> high range
-Defense 7
-	- mid -> high range
-
-
-
+### Skills
 Levels 1 - 20
-Each level player gains points to give to skills in skill tree to unlock and upgrade
-Each class 3 skills
+Each level player gains points to assign in character skill tree to unlock and upgrade available skills
+Multiclassing available up to 2 characters
+Each class only gets 3 skills for now.
  
 Morale Boost
- 	- 5% increase to teammates stats, at higher levels increases % and increases much more when teammates are low hp
+    - description - 5% increase to teammates stats, at higher levels increases % and increases much more when teammates are low hp
+    - flavor text -
+    - stats adjustment -
+    - level adjustment - 
+    - cooldown duration - # of turns
+    
 Dodge
-	- 25% increase in enemies missing
+    - description - 25% increase in enemies missing
+    - flavor text -
+    - stats adjustment -
+    - level adjustment - 
+    - cooldown duration - # of turns
+    
 Tackle
-	- knocks enemies prone doing X amount damage
-
-Do skills have a cooldown? - yes we have cooldowns timed or turn based
-or x amount uses per day or per battle?
+    - description - knocks enemies prone doing X amount damage
+    - flavor text -
+    - stats adjustment -
+    - level adjustment - 
+    - cooldown duration - # of turns

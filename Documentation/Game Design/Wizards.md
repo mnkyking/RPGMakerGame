@@ -1,40 +1,42 @@
-Class Name: Wizard
-Attributes/Race - N/A
+# Class Template
 
-Stats - stats are generated based class but a small formula as well
+## Class Name: Wizard
+### Attributes/Race - may not include races in this game
 
-Health - 50hp
-Magic Power - 30 mp
-Speed - 10
-Attack - 10
-Defense - 10
-Magic Attack - 5
-Magic Defense - 5
+Base Stats for all game characters (classes will affect these base values)
 
-Health - 30hp
-	- generally has more health than classes, 
-Magic Power - 70 mp
-	- small magic power to do simple spells
+Health - 30
+Magic Power - 70
 Speed - 7
-	- if real time battles, determines turn order - low to mid range
-Attack 5
-	- mid -> high range
-Defense 5
-	- mid -> high range
-Magic Attack
-	- 15
-Magic Defense
-	- 10
+Attack - 5
+Defense - 5
+Magic Attack - 15
+Magic Defense - 10
 
-
-
+### Skills
 Levels 1 - 20
-Each level player gains points to give to skills in skill tree to unlock and upgrade
-Each class 3 skills
+Each level player gains points to assign in character skill tree to unlock and upgrade available skills
+Multiclassing available up to 2 characters
+Each class only gets 3 skills for now.
 
 Lightning bolt
-	- 1 time direct shot, leveling increases damage and numbers of target linked
+    - description - 1 time direct shot, leveling increases damage and numbers of target linked
+    - flavor text -
+    - stats adjustment -
+    - level adjustment - 
+    - cooldown duration - # of turns
+    
 Fireball
-	- X amount damage in Y radius, leveling up increases size of AOE and damage
+    - description - X amount damage in Y radius, leveling up increases size of AOE and damage
+    - flavor text -
+    - stats adjustment -
+    - level adjustment - 
+    - cooldown duration - # of turns
+    
 Mage Armor
-	- 10% Hp and increases with level and skill
+    - description - 10% Hp and increases with level and skill
+    - flavor text -
+    - stats adjustment -
+    - level adjustment - 
+    - cooldown duration - # of turns
+    
