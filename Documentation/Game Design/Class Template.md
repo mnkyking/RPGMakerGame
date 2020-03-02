@@ -1,16 +1,14 @@
-Class Template
+# Class Template
 
-Class Name
-Attributes/Race
+## Class Name
+### Attributes/Race
 
 Stats
-Health - 50hp
-Magic Power - 50 mp
-Speed - if real time battles - 10
+Health - 50 health points
+Magic Power - 50 magic points
+Speed - 10
 Attack - 10
 Defense - 10
-Accuracy - 
-
 
 
 Levels 1 - 20
