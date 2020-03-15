@@ -128,18 +128,4 @@ Multiclassing - being able to take on multiple classes but does not pertain to s
 ### Narrative
 - story decisions change the perception of the main character and effect the game features
 - chapter based
-
-# Game Expectations - by Robin (MnkyKing)
-
-## Alpha 1 - 3 months of work ending June 1st
-- what should in this
-
-## Alpha 2 - 3 months of work ending Sept 1st
-- what should in this
-
-## Beta 1 - 3 months of work ending Dec 1st
-- what should in this
-
-## Beta 2 - 2 months of work ending Feb 1st
-- Demo for Level Up Expo 2021
  
