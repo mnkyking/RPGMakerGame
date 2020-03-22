@@ -27,7 +27,7 @@ Description: Very weak monsters, no special abilities or skills. Expectation is 
 **Attack 1 Type**: Physical or Magical  
 **Attack #**:  
 
-__Copy from below Template__  
+```Copy from below Template```  
 ### Monster Info 
 **Name**:  
 **Race**:  
