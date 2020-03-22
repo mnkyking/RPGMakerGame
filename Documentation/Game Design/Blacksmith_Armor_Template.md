@@ -1,6 +1,10 @@
 # Blacksmith Armor Template
 
-Armor is the top piece of clothing for a character that provides defense against attacks. 
+**Armor** is the top piece of clothing for a character that provides defense against attacks.   
+**Leggings/Skirt/BottomWear** are worn over the characters lower body and provide defense against attacks.   
+**Shield** is carried with 1 hand of the character and provides great defense against attacks.    
+**Helmet/Hat** is worn over the characters head and provide defense against attacks.   
+**Boots** are worn over the characters feet and provide defense against attacks.   
 
 ## Stats
 **Name**: name of item   
@@ -15,7 +19,8 @@ Armor is the top piece of clothing for a character that provides defense against
     **Rare**: You have to know where to look very few shops can create these items and even fewer have them.  
     **Legendary**: These items are quest only through very difficult dungeons or completion of difficult quests. These items are known to exist maybe held by Kings and Queens.   
     **Mythical**: These items are rumored and may or may not exist in the world very little is known about these items and finding them is near impossible.  
-**Artwork**: has artwork  
+**Artwork**: has artwork and credit artist  
+**Credit**: credit designer who made this description and stats  
 
 **Name**:      
 **Description**:      
@@ -25,6 +30,7 @@ Armor is the top piece of clothing for a character that provides defense against
 **Cost**:  
 **Rarity**:  
 **Artwork**:  
+**Credit**:  
 
 ## Example
 **Name**: Leather Armor   
@@ -35,3 +41,14 @@ Armor is the top piece of clothing for a character that provides defense against
 **Cost**:  5 GP  
 **Rarity**:  Common   
 **Artwork**:  No artwork yet   
+
+## Example
+**Name**: Leather Boots   
+**Description**: These boots are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.   
+**Flavor Text**: These boots have a bright red stitching making these boots look very stylish.   
+**Shield Formula**: 2 base value      
+**Special Skills or Buffs**: +1 speed    
+**Cost**:  2 GP  
+**Rarity**:  Common   
+**Artwork**:  No artwork yet and no one to credit.  
+**Credit**: Mnkyking  
