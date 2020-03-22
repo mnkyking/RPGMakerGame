@@ -27,8 +27,7 @@ Description: A bit stronger than Tier 1 monsters. Expectation is that they have 
 **Attack 1 Type**: Physical or Magical  
 **Attack #**:  
 
-__Copy from below Template__  
-
+__Copy from below Template__
 ### Monster Info 
 **Name**:  
 **Race**:  
