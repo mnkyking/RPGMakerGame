@@ -4,9 +4,13 @@ Armor is
 
 ## Stats
 Name: **name of item** 
+
 Description: **detailed description of item for artist to create concept from** 
+
 Flavor Text: **description that is used in game to describe story or uniqueness of item** may not be necessary 
+
 Shield Formula: **the formula to be used in game and any special qualities** 
+
 Special Skills or Buffs: **description of modifiiers or added skill benefits** 
 Cost: **cost of weapon in amount of game currency** 
 Rarity: **level of rarity in game compared to other items** 
