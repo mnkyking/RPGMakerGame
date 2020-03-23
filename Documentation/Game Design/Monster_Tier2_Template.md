@@ -64,7 +64,7 @@ __Copy from below Template__
 
 ### Stats
 **Health**: 30HP  
-**Magic Power**: 0MP
+**Magic Power**: 0MP  
 **Speed**: 15  
 **Attack**: 17  
 **Defense**: 15  
