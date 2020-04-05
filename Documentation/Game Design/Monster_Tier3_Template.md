@@ -1,6 +1,6 @@
 # Monster Tier 3 Template  
 
-Description: A bit stronger than Tier 1 monsters. Expectation is that they have 1 or 2 types of attacks and can flee.  
+Description: Shown to be leaders of enemy groups that showcase unique skills and traits as enemies. Expected to have multiple attacks and unique fighting abilities similar to what boss monsters can do.
 
 ### Monster Info  
 **Name**: name of monster  
@@ -55,27 +55,38 @@ __Copy from below Template__
 
 ## Example
 ### Monster Info 
-**Name**:  Dire Wolf  
-**Race**: Wolf  
-**Description**: A dire wolf was a dire version of a grey wolf, being a larger and more primitive or feral breed of wolf.  
-**Flavor Text**: Dire wolves grew to about 9 feet (2.7 meters) long and weighed up to 800 pounds (363 kilograms), about the size of a horse. Their fur was thick and a mottled grey or black in color, and they had fiery eyes.  
+**Name**:  Hobgoblin  
+**Race**: Hobgoblin  
+**Description**: Hobgoblins are large goblinoids with dark orange or red-orange skin. A hobgoblin measures virtue by physical strength and martial prowess, caring about nothing except skill and cunning in battle.  
+**Flavor Text**: This large hobgoblin forces the goblin troops into battle as he laughs safely behind a wall of goblins.  
 **Artwork**: Some Artist  
 **Credit**: Me  
 
 ### Stats
-**Health**: 30HP  
+**Health**: 14 (3d6 + 2)HP  
 **Magic Power**: 0MP  
 **Speed**: 15  
-**Attack**: 17  
-**Defense**: 15  
+**Attack**: 15  
+**Defense**: 18  
 **Magic Attack**: 0  
 **Magic Defense**: 5  
 
 ### Attacks
-**Attack 1**: Bite  
-**Attack 1 Description**: This large beast uses its sharp teeth to rip through flesh of its prey.  
-**Attack 1 Flavor Text**: As these sharp teeth tear your flesh you are filled with searing pain.  
-**Attack 1 Damage**: 2d6 + 3  
+**Attack 1**: Longsword  
+**Attack 1 Description**: This sharpened blade is well kept to better slay its enemies.  
+**Attack 1 Flavor Text**: The hobgoblin grows tired of the goblins uselessness and steps strongly forward into battle to tear you down.  
+**Attack 1 Damage**: 1d8 + 1  
 **Attack 1 Type**: Physical  
 
+**Attack 2**: Shortbow  
+**Attack 2 Description**: Wooden shortbow with bloodstained edges and metallic highlights.  
+**Attack 2 Flavor Text**: The hobgoblin shoots at you and his goblin follows and laughs when they hit.  
+**Attack 2 Damage**: 1d6 + 2  
+**Attack 2 Type**: Physical  
 
+### Fighting Style
+**Normal** 
+When the hobgoblin is above half health it uses its longsword and shortbow to attack enemies.
+
+**Frenzied**
+When the hobgoblin is below half health it tosses away its shortbow if it was being held and uses its longsword. Its eyes glow red in a rage and appears to grow larger in size as it begins to charge directly at its enemies. Now hobgoblin gets 2 attacks per turn.

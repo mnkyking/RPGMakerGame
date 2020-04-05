@@ -55,27 +55,27 @@ __Copy from below Template__
 
 ## Example
 ### Monster Info 
-**Name**:  Dire Wolf  
-**Race**: Wolf  
-**Description**: A dire wolf was a dire version of a grey wolf, being a larger and more primitive or feral breed of wolf.  
-**Flavor Text**: Dire wolves grew to about 9 feet (2.7 meters) long and weighed up to 800 pounds (363 kilograms), about the size of a horse. Their fur was thick and a mottled grey or black in color, and they had fiery eyes.  
+**Name**:  Goblin  
+**Race**: Goblin  
+**Description**: Goblins are small, black-hearted humanoids that lair in despoiled dungeons and other dismal settings. Individually weak, they gather in large numbers to torment other creatures.  
+**Flavor Text**: The ugly goblin shrieks out to call for his brethen to help fight you off.  
 **Artwork**: Some Artist  
 **Credit**: Me  
 
 ### Stats
-**Health**: 30HP  
+**Health**: 7 (2d6)HP  
 **Magic Power**: 0MP  
-**Speed**: 15  
-**Attack**: 17  
-**Defense**: 15  
+**Speed**: 12  
+**Attack**: 9  
+**Defense**: 10  
 **Magic Attack**: 0  
-**Magic Defense**: 5  
+**Magic Defense**: 0  
 
 ### Attacks
-**Attack 1**: Bite  
-**Attack 1 Description**: This large beast uses its sharp teeth to rip through flesh of its prey.  
-**Attack 1 Flavor Text**: As these sharp teeth tear your flesh you are filled with searing pain.  
-**Attack 1 Damage**: 2d6 + 3  
+**Attack 1**: Scimitar  
+**Attack 1 Description**: The goblin wields a rusty blade covered in blood  
+**Attack 1 Flavor Text**: The goblin rushes towareds you swinging about wildly with his blade.  
+**Attack 1 Damage**: 1d6 + 2 Slashing Damage  
 **Attack 1 Type**: Physical  
 
 
