@@ -1,4 +1,4 @@
-# Class Template
+# Class Template  
 
 ## Class Name
 ### Attributes/Race - may not include races in this game
