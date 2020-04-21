@@ -27,6 +27,10 @@ Description: Very weak monsters, no special abilities or skills. Expectation is 
 **Attack 1 Type**: Physical or Magical  
 **Attack #**:  
 
+### Drops  
+**Items**: What items does this monster drop?  
+**Experience**: Amount of experience given to player  
+
 __Copy from below Template__
 ### Monster Info 
 **Name**:  
@@ -53,6 +57,10 @@ __Copy from below Template__
 **Attack 1 Type**:  
 **Attack #**:  
 
+### Drops  
+**Items**:  
+**Experience**:  
+
 ## Example
 ### Monster Info 
 **Name**:  Green Slime  
@@ -78,3 +86,6 @@ __Copy from below Template__
 **Attack 1 Damage**: 3  
 **Attack 1 Type**: Physical  
 
+### Drops  
+**Items**:  Some Gold
+**Experience**: 2 xp  

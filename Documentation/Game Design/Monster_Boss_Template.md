@@ -25,6 +25,7 @@ Description: Highly difficult for player's level. Has multiple attacks and in so
 
 ### Drops  
 **Items**: What items does this monster drop?  
+**Experience**: Amount of experience given to player  
 
 ### Attacks
 **Attack 1**: Name of attack.  
@@ -62,6 +63,7 @@ __Copy from below Template__
 
 ### Drops  
 **Items**:  
+**Experience**:  
 
 ### Attacks
 **Attack 1**:  
@@ -100,7 +102,8 @@ __Copy from below Template__
 **Trait Description**: This monster can attack twice in a single turn. Twice in a single battle.  
 
 ### Drops  
-**Items**:  Amulet of Green Magic
+**Items**:  Amulet of Green Magic  
+**Experience**: 1000 xp
 
 ### Attacks
 **Attack 1**: Magic Missiel  

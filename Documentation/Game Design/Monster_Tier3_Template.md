@@ -27,6 +27,10 @@ Description: Shown to be leaders of enemy groups that showcase unique skills and
 **Attack 1 Type**: Physical or Magical  
 **Attack #**:  
 
+### Drops  
+**Items**: What items does this monster drop?  
+**Experience**: Amount of experience given to player  
+
 __Copy from below Template__
 ### Monster Info 
 **Name**:  
@@ -52,6 +56,10 @@ __Copy from below Template__
 **Attack 1 Damage**:  
 **Attack 1 Type**:  
 **Attack #**:  
+
+### Drops  
+**Items**:  
+**Experience**:  
 
 ## Example
 ### Monster Info 
@@ -83,6 +91,10 @@ __Copy from below Template__
 **Attack 2 Flavor Text**: The hobgoblin shoots at you and his goblin follows and laughs when they hit.  
 **Attack 2 Damage**: 1d6 + 2  
 **Attack 2 Type**: Physical  
+
+### Drops  
+**Items**:  Some gold 
+**Experience**: 20 xp  
 
 ### Fighting Style
 **Normal** 

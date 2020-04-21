@@ -22,6 +22,7 @@
 **Artwork**: has artwork and credit artist  
 **Credit**: credit designer who made this description and stats  
 
+__Copy from below Template__
 **Name**:      
 **Description**:      
 **Flavor Text**:    

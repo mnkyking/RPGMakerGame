@@ -27,6 +27,10 @@ Description: A bit stronger than Tier 1 monsters. Expectation is that they have 
 **Attack 1 Type**: Physical or Magical  
 **Attack #**:  
 
+### Drops  
+**Items**: What items does this monster drop?  
+**Experience**: Amount of experience given to player  
+
 __Copy from below Template__
 ### Monster Info 
 **Name**:  
@@ -53,6 +57,10 @@ __Copy from below Template__
 **Attack 1 Type**:  
 **Attack #**:  
 
+### Drops  
+**Items**:  
+**Experience**:  
+
 ## Example
 ### Monster Info 
 **Name**:  Goblin  
@@ -78,4 +86,6 @@ __Copy from below Template__
 **Attack 1 Damage**: 1d6 + 2 Slashing Damage  
 **Attack 1 Type**: Physical  
 
-
+### Drops  
+**Items**:  
+**Experience**:  
