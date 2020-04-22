@@ -1,40 +1,47 @@
-# Class Template
+# Knight Class  
 
-## Class Name: Knight
-### Attributes/Race - may not include races in this game
+### Class Information  
+**Description**:  `Knights` battles for what is right and stands by his King and Kingdom. `Knights` wearing the armor and seal of their kingdom use there great swordsmanship to defend the people. They have great defense and offense as they have been rigirously trained in order to become accepted into Knighthood.  
+**Flavor Text**:  Their glorioys armor shines brightly showcasing the Kingdoms seal on their shoulders and shields.  
+**Artwork**:  None yet  
+**Credit**:  Mnkyking  
 
-### Stats
-Health - 50
-Magic Power - 30
-Speed - 10
-Attack - 10
-Defense - 10
-Magic Attack - 5
-Magic Defense - 5
+### Stats  
+**Health**:  10  +3/level  
+**Magic Power**:  4  +2/level  
+**Speed**:  8  +2/level  
+**Attack**:  12  +4/level  
+**Defense**:  10  +3/level  
+**Magic Attack**:  5  +2/level  
+**Magic Defense**:  5  +2/level  
+
+### Starting Equipment  
+**Armor**:  Chainmail  (no item or artwork yet defined)  
+**Shield**:  Iron Shield  (no item or artwork yet defined)  
+**Helmet**:  Iron Helmet  (no item or artwork yet defined)  
+**Boots**:  Leather Boots  (no item or artwork yet defined)  
+**Leggings**:  Leather Leggings  (no item or artwork yet defined)  
+**Ring 1**:  None  
+**Ring 2**:  None  
+**Ring 3**:  None  
+**Amulet**:  None  
+**Accessory 1**:  None  
+**Accessory 2**:  None  
+
+### Attacks  
+**Attack 1**:  Long Sword  
+**Attack 1 Description**: Knight uses its long sword for a large forward slashing attack.  
+**Attack 1 Flavor Text**: You lunge forward towards your foe and swing your long sword.  
+**Attack 1 Damage**:  1d10 +(Attack*0.5) slashing damage  
+**Attack 1 Type**:  Slashing Damage  
+**Artwork**:  None yet  
+**Credit**:  Mnkyking  
 
 ### Skills
-Levels 1 - 20
-Each level player gains points to assign in character skill tree to unlock and upgrade available skills
-Multiclassing available up to 2 characters
-Each class only gets 3 skills for now.
- 
-Morale Boost
-    - description - 5% increase to teammates stats, at higher levels increases % and increases much more when teammates are low hp
-    - flavor text -
-    - stats adjustment -
-    - level adjustment - 
-    - cooldown duration - # of turns
-    
-Dodge
-    - description - 25% increase in enemies missing
-    - flavor text -
-    - stats adjustment -
-    - level adjustment - 
-    - cooldown duration - # of turns
-    
-Tackle
-    - description - knocks enemies prone doing X amount damage
-    - flavor text -
-    - stats adjustment -
-    - level adjustment - 
-    - cooldown duration - # of turns
+**Skill 1**:  
+**Skill 1 Description**:  
+**Skill 1 Flavor Text**:  
+**Skill 1 Buff Description**:  
+**Artwork**:  
+**Credit**:  
+
