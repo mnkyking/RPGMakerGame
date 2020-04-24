@@ -37,11 +37,11 @@
 **Artwork**:  None yet  
 **Credit**:  Mnkyking  
 
-### Skills
-**Skill 1**:  
-**Skill 1 Description**:  
-**Skill 1 Flavor Text**:  
-**Skill 1 Buff Description**:  
-**Artwork**:  
-**Credit**:  
+### Skill Tree
+**Skill 1**:  Power Slash  
+**Skill 1 Description**:  Knight uses there large weapon and charges up their attack with red fury and lunges towards their target and attacks with great slashing power impacting the ground and dealing large damage to enemy.  
+**Skill 1 Flavor Text**: Your weapon glows red and you feel your body surging with more power.  
+**Skill 1 Buff Description**:  +1d10 damage  
+**Artwork**:  None yet  
+**Credit**:  Mnkyking  
 
