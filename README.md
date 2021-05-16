@@ -12,3 +12,5 @@ Research implementing Knight (Classes)
 Webhook to discord server to notify that I am streaming.
 
 What is TP?
+
+Will be moving MZ project here. 
